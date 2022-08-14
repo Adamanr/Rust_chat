@@ -1,21 +1,7 @@
 <h1>Rust Chat</h1>
 
 <b>Ru</b>
-<h3>Консольный чат написанный на языке Rust *с использованием фреймворка bubble tea (Фреймворк для дизайна cli)</h3>
-<u>Функционал чата:</u> 
-<ul>
-<li>/list - Поиск свободных комнат (Комнаты могут быть с паролями)</li> 
-<li>/users - Вывод всех пользователей что сейчас онлайн</li>
-<li>/create [*] - Создание своей комнаты ( С паролем [y/n])</li>
-<li>In future </li>
-</ul>
+<h3>Чат, написанный на языке Rust, работающий в браузере, который позволяет вам создавать никнеймы онлайн и создавать комнаты с помощью Js</h3>
 
 <b>En</b>
-<h3>Console chat written in Rust* using bubble tea framework (cli Design Framework)</h3>
-<u>Chat functionality:</u>
-<ul>
-<li>/list - Search for available rooms (Rooms can be with passwords)</li> 
-<li>/users - Output of all users that are online now</li>
-<li>/create [*] - Create your own room (With password [y/n])</li>
-<li>In future </li>
-</ul>
+<h3>A chat written in the Rust language running in a browser that allows you to create a nickname online and create rooms with Js</h3>
